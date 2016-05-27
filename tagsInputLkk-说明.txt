@@ -1,5 +1,5 @@
 ﻿# tagsInputLkk-jquery
-标签生成
+标签生成，编辑标签，删除标签，提交标签
 
 tagsInputLkk
 
