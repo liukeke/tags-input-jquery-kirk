@@ -1,5 +1,7 @@
 # tags-input-jquery-locke
-标签生成
+表单输入关键词,自动生成标签
+
+演示地址：http://liukeke.github.io/tags-input-jquery-locke/tagsInputLkk-demo.html
 
 tags-input-jquery-locke
 
