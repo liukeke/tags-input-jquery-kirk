@@ -1,7 +1,7 @@
-# tags-input-jquery-kirk
+# tags-input-jquery-locke
 标签生成
 
-tags-input-jquery-kirk
+tags-input-jquery-locke
 
 引入 jquery1.11 版本以上文件
 
