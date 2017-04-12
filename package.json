@@ -1,7 +1,7 @@
 {
   "name": "tags-input-jquery-locke",
-  "version": "1.0.0",
-  "description": "标签生成",
+  "version": "1.1.0",
+  "description": "表单输入关键词,自动生成标签",
   "main": "jquery.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
