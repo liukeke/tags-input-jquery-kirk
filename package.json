@@ -1,7 +1,7 @@
 {
-  "name": "tags-input-jquery-locke",
-  "version": "1.1.2",
-  "description": "表单输入关键词,自动生成标签",
+  "name": "tags-input-jquery-kirk",
+  "version": "1.1.3",
+  "description": "tags-input-jquery-kirk",
   "main": "jquery.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
