@@ -3,7 +3,7 @@
 
 演示地址：http://liukeke.github.io/tags-input-jquery-kirk/tagsInputLkk-demo.html
 
-tags-input-jquery-locke
+tags-input-jquery-kirk
 
 引入 jquery1.11 版本以上文件
 
